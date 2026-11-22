@@ -4,6 +4,10 @@ All notable changes to the AI security engineer. Versions follow semver: patch =
 wording, minor = new skill / workspace files, major = breaking workspace change.
 Entries that need a workspace change list a **Migration** step; `setup` (upgrade mode) applies it.
 
+## 0.1.3 — 2026-11-23
+- Missed questions: an unanswered question that still matters is repeated briefly under
+  "Still open:" at the end of the next answer.
+
 ## 0.1.2 — 2026-11-23
 - Ask colleagues directly, never through the founder: @mention in group chats, the Agent tool
   as main agent, "Question for @member" when called by the lead.
