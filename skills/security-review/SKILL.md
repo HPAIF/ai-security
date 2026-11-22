@@ -55,4 +55,4 @@ rules 1–2). You never push, merge or deploy.
    push, merge or deploy without explicit approval of that exact action. Implementation work for
    larger fixes → hand off to `cto` (code) or `devops` (infrastructure) with the exact request.
 9. **Report privately** (rule 4) and `ai-security:log-job` — unfixed findings → risks; fixes →
-   obligations; legal angles (personal data exposure) → the exact question, asked directly (RULES: "Ask colleagues directly"), for the `lawyer`.
+   obligations; legal angles (personal data exposure) → the exact question (as "For @member: …", RULES: "Talk to colleagues only where the founder sees it") for the `lawyer`.

@@ -33,7 +33,7 @@ company does not actually have; mark planned controls as planned. The legal-comp
    the founder. Never overstate a control or claim a certification the company does not hold.
    Save the answers in `research/R-XXXX-questionnaire-<customer>.md`; the founder sends them.
 5. **Legal check:** list the legal questions the policy raises (breach-notification deadlines,
-   personal-data rules, contractual commitments) and write the exact question, asked directly (RULES: "Ask colleagues directly"), for the `lawyer`.
+   personal-data rules, contractual commitments) and write the exact question (as "For @member: …", RULES: "Talk to colleagues only where the founder sees it") for the `lawyer`.
    Don't state legal requirements yourself as fact.
 6. **Save** `ai-team/security/policies/<name>.md` with front-matter status `draft`. When the
    founder approves it, set `approved`, the date and next review date, and register it in
