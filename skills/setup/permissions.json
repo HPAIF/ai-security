@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:owasp.org)",
+      "WebFetch(domain:top10.owasp.org)",
+      "WebFetch(domain:asvs.owasp.org)",
+      "WebFetch(domain:cheatsheetseries.owasp.org)",
+      "WebFetch(domain:owaspsamm.org)",
+      "WebFetch(domain:osv.dev)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:nvd.nist.gov)",
+      "WebFetch(domain:www.cisa.gov)",
+      "WebFetch(domain:www.nist.gov)",
+      "WebFetch(domain:csrc.nist.gov)",
+      "WebFetch(domain:www.cisecurity.org)",
+      "WebFetch(domain:slsa.dev)",
+      "WebFetch(domain:www.first.org)",
+      "WebFetch(domain:cwe.mitre.org)",
+      "WebFetch(domain:www.rfc-editor.org)",
+      "Bash(date:*)"
+    ]
+  }
+}

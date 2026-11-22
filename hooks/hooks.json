@@ -1,0 +1,16 @@
+{
+  "description": "At session start, shows the AI security engineer's memory for this project (open high/critical risks, deadlines, recent jobs, pending learnings) when an ai-team/security workspace exists. Silent otherwise.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-context.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
