@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-security",
+  "description": "Install ai-security directly from its own repository. For the whole AI Team use the HPAIF/ai-team catalog.",
+  "owner": {
+    "name": "HPAIF",
+    "url": "https://github.com/HPAIF"
+  },
+  "plugins": [
+    {
+      "name": "ai-security",
+      "description": "AI Team in-house security engineer for founders: threat models your products (STRIDE), reviews code and configuration against OWASP Top 10 and ASVS, scans dependencies and secrets, drafts security policies (CIS Controls, NIST CSF 2.0), guides incident response, and keeps a private security risk register. Works only on assets the company owns, never prints secrets, reports vulnerabilities privately. Not a certified security auditor.",
+      "source": "./",
+      "homepage": "https://github.com/HPAIF/ai-security"
+    }
+  ]
+}

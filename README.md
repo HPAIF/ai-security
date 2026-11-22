@@ -28,6 +28,13 @@ In Claude Code:
 /plugin install ai-security@ai-team
 ```
 
+Or install only this member, straight from its repository:
+
+```
+/plugin marketplace add HPAIF/ai-security
+/plugin install ai-security@ai-security
+```
+
 Then, in your project (or company folder), say **"set up the AI security engineer"**. The `setup`
 skill creates or joins the private `ai-team/` workspace, builds the list of company-owned assets
 with you, and offers `.gitignore`, documentation-site permissions and scheduled runs. Nothing
