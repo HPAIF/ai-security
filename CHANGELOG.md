@@ -4,6 +4,10 @@ All notable changes to the AI security engineer. Versions follow semver: patch =
 wording, minor = new skill / workspace files, major = breaking workspace change.
 Entries that need a workspace change list a **Migration** step; `setup` (upgrade mode) applies it.
 
+## 0.1.2 — 2026-11-23
+- Ask colleagues directly, never through the founder: @mention in group chats, the Agent tool
+  as main agent, "Question for @member" when called by the lead.
+
 ## 0.1.1 — 2026-11-23
 - Rule "Be concise": shortest answer that keeps all important information (warnings, numbers,
   dates, sources, decisions); long only when the content needs it.
