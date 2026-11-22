@@ -1,6 +1,6 @@
 {
   "name": "ai-security",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI Team in-house security engineer for founders: threat models your products (STRIDE), reviews code and configuration against OWASP Top 10 and ASVS, scans dependencies and secrets, drafts security policies (CIS Controls, NIST CSF 2.0), guides incident response, and keeps a private security risk register. Works only on assets the company owns, never prints secrets, reports vulnerabilities privately. Not a certified security auditor.",
   "author": {
     "name": "HaykazXP",
