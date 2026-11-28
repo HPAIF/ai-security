@@ -4,6 +4,11 @@ All notable changes to the AI security engineer. Versions follow semver: patch =
 wording, minor = new skill / workspace files, major = breaking workspace change.
 Entries that need a workspace change list a **Migration** step; `setup` (upgrade mode) applies it.
 
+## 0.1.5 — 2026-11-28
+- Shorter replies: chat answers are about 5 lines by default (answer first, no headings, at most
+  3 bullets, no report of housekeeping). The full answer format is for memos and full analyses;
+  long content goes into a workspace file with the path in the chat.
+
 ## 0.1.4 — 2026-11-23
 - Talk to colleagues only where the founder sees it: no hidden Agent-tool calls; @mention in group
   chats (one answer, no discussion without the founder); "For @member:" elsewhere.
